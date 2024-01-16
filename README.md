@@ -1,4 +1,5 @@
-# Custom Gmail Template with Google Apps Script
+# Custom Gmail Template with Google Apps Script 
+by Anirudh Singh Rawat
 
 This repository allows you to create your own custom Gmail template using the Google Apps Script provided.
 
