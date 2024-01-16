@@ -24,4 +24,4 @@ You're all set! Enjoy your custom Gmail template. 😄
 
 ---
 
-If you encounter any issues or have suggestions, please [open an issue](link-to-your-github-issues-page) or submit a pull request.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/Anirudhrawat/App-Script-Template/issues) or submit a pull request.
